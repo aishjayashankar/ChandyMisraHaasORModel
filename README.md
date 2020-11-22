@@ -1,5 +1,5 @@
-# Chandy Misra Haas Algorithm for the OR Model
-**********************************************
+# Chandy Misra Haas Deadlock Detection Algorithm for the OR Model
+
 
 Author: Aishwarya Jayashankar
 
@@ -7,8 +7,11 @@ The algorithm has been implemented using Python and its working has been tested 
 However, it may work with higher versions of Python as well.
 
 To setup the Python Interpreter on your machine, follow the steps in the following links:
+
 For Windows - https://docs.python.org/3/using/windows.html
+
 For Linux - https://docs.python.org/3/using/unix.html
+
 For Mac OS - https://docs.python.org/3/using/mac.html
 
 Once the Python interpreter is available the CMH_OR.py file can be executed by simply double-clicking on the file, and a command prompt opens up.
@@ -28,14 +31,23 @@ The Graph for the Demo input can be found in demo_input_example.png
 On running the program initially, press 'y' and 'Enter' for Demo input, or press 'n' and 'Enter' for Custom input.
 
 For Custom input, the values are entered in the following order and format:
+
 -Number of processes (integer value > 1) 
+
 For Example: 3
+
 -Dependencies between processes in the format a b where 'a' and 'b' are integer values in the range [1,n] where n is the number of processes. After entering the required dependencies, press 'e' and 'Enter' to move to the next step
+
 For Example: 
+
 1 2
+
 2 3
+
 3 1
+
 e
+
 -Initiating process number (integer value in the range [1,n] where n is the number of processes)
 For Example: 1
 
