@@ -59,6 +59,7 @@ If a Deadlock is NOT detected, the User will be asked if she/he wants to send so
 Note: The User will be able to see a list of process IDs that are still waiting for a reply
 
 -Process ID and number of non-engaging queries to be sent in the format a b where 'a' is an integer value in the range [1,n] where n is the number of processes and 'b' is any positive integer
+
 For Example: 1 4
 
 Note: The program will execute and display the non-engaging Queries and their corresponding Replies sent.
