@@ -28,6 +28,8 @@ Two options are available for the User:
 
 The Graph for the Demo input can be found in demo_input_example.png
 
+![alt text](https://github.com/aishjayashankar/ChandyMisraHaasORModel/blob/main/demo_input_diagram.png)
+
 On running the program initially, press 'y' and 'Enter' for Demo input, or press 'n' and 'Enter' for Custom input.
 
 For Custom input, the values are entered in the following order and format:
