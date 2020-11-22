@@ -17,7 +17,9 @@ For Mac OS - https://docs.python.org/3/using/mac.html
 Once the Python interpreter is available the CMH_OR.py file can be executed by simply double-clicking on the file, and a command prompt opens up.
 
 Note: If for some reason double-clicking the file does not work, please run the same by opening a command prompt window and entering the following command (in the directory of the Python file):
+
 python3 CMH_OR.py
+
 PS: Python should be available in path under Environment variables
 
 -------------INPUT DESCRIPTION----------------
